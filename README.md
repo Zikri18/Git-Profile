@@ -2,10 +2,7 @@
     My custom Git Profile based on existing README.md templates.
     Credit to Daria Stanilevici for the inspiration.
 -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&text=Adam+Zikri&textBg=false&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zeyada&pause=1000&color=00BBFF&center=true&vCenter=true&width=435&lines=Wan+Muhammad+Adam+Zikri" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Viga&size=32&pause=1000&color=00BBFF&center=true&vCenter=true&width=435&lines=Wan+Muhammad+Adam+Zikri" alt="Typing SVG" /></a>
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,firebase,git,github,js,laravel,mongodb,postman,mysql,py,react,tailwind,ts,vite,figma&theme=dark&perline=8)](https://skillicons.dev)
